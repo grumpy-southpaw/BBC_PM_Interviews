@@ -1,18 +1,35 @@
 Date,Interviewee,Party,Senior,min_start,sec_start,min_stop,sec_stop,Elapsed,Notes
-25/03/19,Anne Marie Morris,Con,0,10,0,13,46,3.76666666666667,
-25/03/19,Ed Vaizey,Con,1,14,3,21,20,7.28333333333333,
-26/03/19,Steven Kinnock,Lab,0,15,16,20,47,5.51666666666667,
-26/03/19,David Davies,Con,0,34,51,35,32,0.68333333333333,
-26/03/19,Chris Philp,Con,1,35,51,40,17,4.43333333333333,
-26/03/19,Jacob Rees-Mogg,Con,0,46,45,48,3,1.3,Podcast
-26/03/19,Sammy Wilson,DUP,1,48,30,48,57,0.450000000000003,
-26/03/19,Nigel Evans,Con,0,49,10,52,46,3.6,
-27/03/19,Margot James,Con,1,38,0,46,1,8.01666666666667,
-27/03/19,Anne Marie Morris,Con,0,50,16,55,23,5.11666666666667,
-28/03/19,Rory Stewart,Con,1,13,35,19,23,5.8,
-28/03/19,Tony Lloyd,Lab,1,28,28,32,44,4.26666666666667,Terminated by technical difficulties
-29/03/19,Chris Grayling,Con,1,12,29,17,22,4.88333333333333,
-29/03/19,Richard Burgon,Lab,1,23,13,27,6,3.88333333333334,
-29/03/19,Dominic Greive,Con,0,37,25,40,49,3.40000000000001,
-29/03/19,John Baron,Con,0,43,58,44,25,0.449999999999996,Terminated by technical difficulties
-29/03/19,John Baron,Con,0,54,21,57,14,2.88333333333333,
+25/03/2019,Anne Marie Morris,Con,0,10,0,13,46,3.766666667,
+25/03/2019,Ed Vaizey,Con,1,14,3,21,20,7.283333333,
+26/03/2019,Steven Kinnock,Lab,0,15,16,20,47,5.516666667,
+26/03/2019,David Davies,Con,0,34,51,35,32,0.683333333,
+26/03/2019,Chris Philp,Con,1,35,51,40,17,4.433333333,
+26/03/2019,Jacob Rees-Mogg,Con,0,46,45,48,3,1.3,Podcast
+26/03/2019,Sammy Wilson,DUP,1,48,30,48,57,0.45,
+26/03/2019,Nigel Evans,Con,0,49,10,52,46,3.6,
+27/03/2019,Margot James,Con,1,38,0,46,1,8.016666667,
+27/03/2019,Anne Marie Morris,Con,0,50,16,55,23,5.116666667,
+28/03/2019,Rory Stewart,Con,1,13,35,19,23,5.8,
+28/03/2019,Tony Lloyd,Lab,1,28,28,32,44,4.266666667,Terminated by technical difficulties
+29/03/2019,Chris Grayling,Con,1,12,29,17,22,4.883333333,
+29/03/2019,Richard Burgon,Lab,1,23,13,27,6,3.883333333,
+29/03/2019,Dominic Greive,Con,0,37,25,40,49,3.4,
+29/03/2019,John Baron,Con,0,43,58,44,25,0.45,Terminated by technical difficulties
+29/03/2019,John Baron,Con,0,54,21,57,14,2.883333333,
+30/03/2019,Dominic Greive,Con,0,6,16,11,17,5.016666667,
+30/03/2019,Rory Stewart,Con,1,17,3,22,25,5.366666667,
+01/04/2019,Nadhim Zahawi,Con,1,12,17,17,31,5.233333333,
+02/04/2019,Nick Boles,Ind,0,12,30,18,22,5.866666667,
+02/04/2019,Crispin Blunt,Con,0,43,29,51,40,8.183333333,
+03/04/2019,Claire Perry,Con,1,13,19,17,56,4.616666667,
+03/04/2019,Margaret Beckett,Lab,0,42,26,46,13,3.783333333,
+03/04/2019,Daniel Kawczynski,Con,0,53,21,56,33,3.2,
+04/04/2019,Caroline Lucas,Grn,1,21,16,26,10,4.9,
+04/04/2019,Diane Abbott,Lab,1,40,52,44,27,3.583333333,
+05/04/2019,Jacob Rees-Mogg,Con,0,7,32,8,16,0.733333333,Speaking on “the world at 1”
+05/04/2019,Emma Lewell-Buck,Lab,0,13,27,16,14,2.783333333,
+05/04/2019,Keir Starmer,Lab,1,37,43,38,12,0.483333333,
+05/04/2019,Rory Stewart,Con,1,38,18,43,9,4.85,
+05/04/2019,Justine Greening,Con,0,49,49,55,48,5.983333333,“At lunch with...” feature
+06/04/2019,Tom Tugendhat,Con,0,12,49,16,15,3.433333333,
+06/04/2019,Jeremy Corbyn,Lab,1,17,31,17,51,0.333333333,
